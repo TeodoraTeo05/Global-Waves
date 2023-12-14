@@ -27,38 +27,83 @@ public class ArtistPage extends Page {
             }
         }
         builder.append("Albums:\n");
-        for (Album artistAlbum : artistAlbums) {
-            builder.append("\t").append(artistAlbum.getName()).append("\n");
-        }
+        if (artistAlbums.isEmpty()) {
+            builder.append("\t[]\n");
+        } else {
+            builder.append("\t[");
+            for (int i = 0; i < artistAlbums.size(); i++) {
+                Album album = artistAlbums.get(i);
+                builder.append(album.getName());
+                // Adăugăm virgula doar dacă nu suntem la ultimul element
+                if (i < artistAlbums.size() - 1) {
+                    builder.append(", ");
+                }
+            }
+            builder.append("]\n");
 
-        ArrayList<Merch> artistMerch = new ArrayList<>();
-        for (Merch merch : Admin.getMerch()) {
-            if (this.user.getUsername().equals(merch.getOwner())) {
-                artistMerch.add(merch);
+
+            ArrayList<Merch> artistMerch = new ArrayList<>();
+            for (Merch merch : Admin.getMerch()) {
+                if (this.user.getUsername().equals(merch.getOwner())) {
+                    artistMerch.add(merch);
+                }
+            }
+            builder.append("\nMerch:\n");
+            if (artistMerch.isEmpty()) {
+                builder.append("\t[]\n");
+            } else {
+                builder.append("\t[");
+                for (int i = 0; i < artistMerch.size(); i++) {
+                    Merch merch = artistMerch.get(i);
+                    builder.append(merch.getName());
+                    if (merch.getPrice() != null) {
+                        builder.append(" - ").append(merch.getPrice());
+                    }
+                    if (merch.getDescription() != null) {
+                        builder.append(":\n\t").append(merch.getDescription());
+                    }
+
+                    // Adăugăm virgula doar dacă nu suntem la ultimul element
+                    if (i < artistMerch.size() - 1) {
+                        builder.append(", ");
+                    }
+                }
+                builder.append("]\n");
+
+
+            }
+            ArrayList<Event> events = Admin.getEvents();
+            ArrayList<Event> artistEvents = new ArrayList<>();
+            for (Event event : events) {
+                if (this.user.getUsername().equals(event.getOwner())) {
+                    artistEvents.add(event);
+                }
+            }
+            builder.append("\nEvents:\n");
+            if (artistEvents.isEmpty()) {
+                builder.append("\t[]\n");
+            } else {
+                builder.append("\t[");
+                for (int i = 0; i < artistEvents.size(); i++) {
+                    Event event = artistEvents.get(i);
+                    builder.append(event.getName());
+                    if (event.getDate() != null) {
+                        builder.append(" - ").append(event.getDate());
+                    }
+                    if (event.getDescription() != null) {
+                        builder.append(":\n\t").append(event.getDescription());
+                    }
+
+                    // Adăugăm virgula doar dacă nu suntem la ultimul element
+                    if (i < artistEvents.size() - 1) {
+                        builder.append(", ");
+                    }
+                }
+                builder.append("]");
             }
         }
-        builder.append("\nMerch:\n");
-        for (Merch merchItem : artistMerch) {
-            // Format as needed, for example:
-            builder.append("\t").append(merchItem.getName()).append(" - ").append(merchItem.getDescription()).append("\n");
+
+
+            return builder.toString();
         }
-        ArrayList<Event> events = Admin.getEvents();
-        ArrayList<Event> artistEvents = new ArrayList<>();
-        for (Event event : events ) {
-            if (this.user.getUsername().equals(event.getOwner())) {
-                artistEvents.add(event);
-            }
-        }
-        builder.append("\nEvents:\n");
-
-        for (Event event : artistEvents) {
-            builder.append("\t[").append(event.getName()).append(" - ").append(event.getDate()).append(":\n\t")
-                    .append(event.getDescription()).append("]\n");
-        }
-
-
-        return builder.toString();
-    }
-
-
 }

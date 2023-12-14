@@ -103,3 +103,8 @@ public class Artist extends User {
 
     }
 }
+
+//git add .
+//       git commit -m "message"
+//      git push origin master
+//cand strici ceva ca sa revii la ultimul commit salvat git reset --hard HEAD

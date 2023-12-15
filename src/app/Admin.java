@@ -306,6 +306,26 @@ public final class Admin {
         return builder.toString();
     }
 
+    public static List<String> getTop5Albums() {
+        List<Album> allAlbums = new ArrayList<>(getAlbums());
+
+        allAlbums.sort((album1, album2) -> {
+            int likeComparison = Integer.compare(album2.getLikes(), album1.getLikes());
+            if (likeComparison == 0) {
+                return album1.getName().compareToIgnoreCase(album2.getName());
+            }
+            return likeComparison;
+        });
+
+        List<String> topAlbums = new ArrayList<>();
+        for (int i = 0; i < Math.min(LIMIT, allAlbums.size()); i++) {
+            topAlbums.add(allAlbums.get(i).getName());
+        }
+
+        return topAlbums;
+
+    }
+
     /**
      * Reset.
      */

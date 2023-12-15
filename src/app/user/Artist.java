@@ -52,10 +52,15 @@ public final class Artist extends User {
         }
 
         ArrayList<Song> albumSongs = new ArrayList<>();
-        for (SongInput song : songs) {
-            albumSongs.add(new Song(song.getName(), song.getDuration(), name,
-                    song.getTags(), song.getLyrics(), song.getGenre(),
-                    releaseYear, getUsername()));
+        int totalLikes = 0;
+        for (SongInput songInput : songs) {
+            Song song = new Song(songInput.getName(), songInput.getDuration(), name,
+                    songInput.getTags(), songInput.getLyrics(), songInput.getGenre(),
+                    releaseYear, getUsername());
+
+            totalLikes += song.getLikes();
+
+            albumSongs.add(song);
 
         }
         for (int i = 0; i < albumSongs.size(); ++i) {
@@ -65,7 +70,8 @@ public final class Artist extends User {
                 }
             }
         }
-        Album album = new Album(name, getUsername(), albumSongs, releaseYear, description);
+
+        Album album = new Album(name, getUsername(), albumSongs, releaseYear, description, totalLikes);
         Admin.addAlbum(album);
         return getUsername() + " has added new album successfully.";
 

@@ -10,13 +10,15 @@ public final class Album extends AudioCollection {
     private ArrayList<Song> songs;
     private Integer releaseYear;
     private String description;
+    private Integer likes;
 
     public Album(final String name, final String owner, final ArrayList<Song> songs,
-                 final Integer releaseYear, final String description) {
+                 final Integer releaseYear, final String description, final Integer likes) {
         super(name, owner);
         this.songs = songs;
         this.releaseYear = releaseYear;
         this.description = description;
+        this.likes = likes;
     }
 
     @Override
@@ -51,4 +53,5 @@ public final class Album extends AudioCollection {
     public void setDescription(final String description) {
         this.description = description;
     }
+
 }

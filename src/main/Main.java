@@ -120,6 +120,7 @@ public final class Main {
                 case "addEvent" -> outputs.add(CommandRunner.addEvent(command));
                 case "addMerch" -> outputs.add(CommandRunner.addMerch(command));
                 case "getAllUsers" -> outputs.add(CommandRunner.getAllUsers(command));
+                case "getTop5Albums" -> outputs.add(CommandRunner.getTop5Albums(command));
                 default -> System.out.println("Invalid command " + commandName);
             }
         }

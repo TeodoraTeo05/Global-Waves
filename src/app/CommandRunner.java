@@ -9,6 +9,8 @@ import app.user.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import fileio.input.CommandInput;
+import org.checkerframework.checker.units.qual.C;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -799,5 +801,15 @@ public final class CommandRunner {
         return objectNode;
     }
 
+    public static ObjectNode getTop5Albums(final CommandInput commandInput) {
+        List<String> albums = Admin.getTop5Albums();
+
+        ObjectNode objectNode = objectMapper.createObjectNode();
+        objectNode.put("command", commandInput.getCommand());
+        objectNode.put("timestamp", commandInput.getTimestamp());
+        objectNode.put("result", objectMapper.valueToTree(albums));
+
+        return objectNode;
+    }
 
 }

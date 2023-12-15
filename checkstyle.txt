@@ -1,5 +1,6 @@
 Starting audit...
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\Admin.java:271:45: 'merch' hides a field. [HiddenField]
+[ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\Admin.java:309:5: Missing a Javadoc comment. [MissingJavadocMethod]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\audio\Collections\AudioCollection.java:38:47: Redundant 'final' modifier. [RedundantModifier]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\audio\Collections\Playlist.java:138:5: Missing a Javadoc comment. [MissingJavadocMethod]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\audio\LibraryEntry.java:12:25: Variable 'name' must be private and have accessor methods. [VisibilityModifier]
@@ -8,6 +9,8 @@ Starting audit...
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\audio\LibraryEntry.java:125:5: Class 'LibraryEntry' looks like designed for extension (can be subclassed), but the method 'getOwner' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'LibraryEntry' final or making the method 'getOwner' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\audio\personals\Event.java:1: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\audio\personals\Event.java:72: Line is longer than 100 characters (found 124). [LineLength]
+[ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\CommandRunner.java:12:8: Unused import - org.checkerframework.checker.units.qual.C. [UnusedImports]
+[ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\CommandRunner.java:804:5: Missing a Javadoc comment. [MissingJavadocMethod]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\pages\HomePage.java:18:30: '=' is not preceded with whitespace. [WhitespaceAround]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\pages\LikedContentPage.java:9:5: Class 'LikedContentPage' looks like designed for extension (can be subclassed), but the method 'currentPage' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'LikedContentPage' final or making the method 'currentPage' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\pages\LikedContentPage.java:9:5: Missing a Javadoc comment. [MissingJavadocMethod]
@@ -16,8 +19,9 @@ Starting audit...
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\searchBar\FilterUtils.java:139:5: Missing a Javadoc comment. [MissingJavadocMethod]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\searchBar\SearchBar.java:6:8: Unused import - app.user.User. [UnusedImports]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\searchBar\SearchBar.java:12:40: Using the '.*' form of import should be avoided - app.searchBar.FilterUtils.*. [AvoidStarImport]
+[ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\user\Artist.java:74: Line is longer than 100 characters (found 103). [LineLength]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\user\User.java:85:73: 'type' hides a field. [HiddenField]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\app\user\User.java:421:16: 'type' hides a field. [HiddenField]
 [ERROR] C:\Users\teodo\Desktop\tema2_poo\oop-project-2023\etapa2\.\src\fileio\input\FiltersInput.java:96:32: Parameter description should be final. [FinalParameters]
 Audit done.
-Checkstyle ends with 20 errors.
+Checkstyle ends with 24 errors.

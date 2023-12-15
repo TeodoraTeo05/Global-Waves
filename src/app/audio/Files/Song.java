@@ -99,6 +99,11 @@ public final class Song extends AudioFile {
         likes++;
     }
 
+    public Integer getLikes() {
+        return likes;
+    }
+
+
     /**
      * Dislike.
      */

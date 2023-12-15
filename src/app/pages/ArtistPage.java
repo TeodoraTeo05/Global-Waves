@@ -10,9 +10,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 public final class ArtistPage extends Page {
+    /**
+     * @param user
+     */
     public ArtistPage(final User user) {
         super(user);
     }
+
+    /**
+     * *method for printing the current page
+     */
 
     @Override
     public String currentPage() {

@@ -54,6 +54,8 @@ public class User {
     private String type;
     private Page currentPage = new HomePage(this);
 
+    private static Admin admin = Admin.getInstance();
+
     /**
      * Instantiates a new User.
      *
@@ -79,16 +81,16 @@ public class User {
      * Search array list.
      *
      * @param filters the filters
-     * @param type    the type
+     * @param searchType   the type
      * @return the array list
      */
-    public ArrayList<String> search(final Filters filters, final String type) {
+    public ArrayList<String> search(final Filters filters, final String searchType) {
         searchBar.clearSelection();
         player.stop();
 
         lastSearched = true;
         ArrayList<String> results = new ArrayList<>();
-        List<LibraryEntry> libraryEntries = searchBar.search(filters, type);
+        List<LibraryEntry> libraryEntries = searchBar.search(filters, searchType);
 
         for (LibraryEntry libraryEntry : libraryEntries) {
             results.add(libraryEntry.getName());
@@ -115,11 +117,11 @@ public class User {
             return "The selected ID is too high.";
         }
         if (searchBar.getLastSearchType().equals("artist")) {
-            currentPage = new ArtistPage(Admin.getUser(selected.getName()));
+            currentPage = new ArtistPage(admin.getUser(selected.getName()));
             return "Successfully selected " + selected.getName() + "'s page.";
         }
         if (searchBar.getLastSearchType().equals("host")) {
-            currentPage = new HostPage(Admin.getUser(selected.getName()));
+            currentPage = new HostPage(admin.getUser(selected.getName()));
             return "Successfully selected " + selected.getName() + "'s page.";
         }
         return "Successfully selected %s.".formatted(selected.getName());
@@ -418,13 +420,13 @@ public class User {
      */
     public String follow() {
         LibraryEntry selection = searchBar.getLastSelected();
-        String type = searchBar.getLastSearchType();
+        String followType = searchBar.getLastSearchType();
 
         if (selection == null) {
             return "Please select a source before following or unfollowing.";
         }
 
-        if (!type.equals("playlist")) {
+        if (!followType.equals("playlist")) {
             return "The selected source is not a playlist.";
         }
 

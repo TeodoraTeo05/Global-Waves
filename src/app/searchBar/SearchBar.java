@@ -3,13 +3,21 @@ package app.searchBar;
 
 import app.Admin;
 import app.audio.LibraryEntry;
-import app.user.User;
 import lombok.Getter;
-
 import java.util.ArrayList;
 import java.util.List;
-
-import static app.searchBar.FilterUtils.*;
+import static app.searchBar.FilterUtils.filterByAlbum;
+import static app.searchBar.FilterUtils.filterByArtist;
+import static app.searchBar.FilterUtils.filterByDescription;
+import static app.searchBar.FilterUtils.filterByFollowers;
+import static app.searchBar.FilterUtils.filterByGenre;
+import static app.searchBar.FilterUtils.filterByLyrics;
+import static app.searchBar.FilterUtils.filterByName;
+import static app.searchBar.FilterUtils.filterByOwner;
+import static app.searchBar.FilterUtils.filterByPlaylistVisibility;
+import static app.searchBar.FilterUtils.filterByReleaseYear;
+import static app.searchBar.FilterUtils.filterByTags;
+import static app.searchBar.FilterUtils.filtersByLetters;
 
 /**
  * The type Search bar.
@@ -51,10 +59,11 @@ public final class SearchBar {
      */
     public List<LibraryEntry> search(final Filters filters, final String type) {
         List<LibraryEntry> entries;
+        Admin admin = Admin.getInstance();
 
         switch (type) {
             case "song":
-                entries = new ArrayList<>(Admin.getSongs());
+                entries = new ArrayList<>(admin.getSongs());
 
                 if (filters.getName() != null) {
                     entries = filterByName(entries, filters.getName());
@@ -86,7 +95,7 @@ public final class SearchBar {
 
                 break;
             case "playlist":
-                entries = new ArrayList<>(Admin.getPlaylists());
+                entries = new ArrayList<>(admin.getPlaylists());
 
                 entries = filterByPlaylistVisibility(entries, user);
 
@@ -104,7 +113,7 @@ public final class SearchBar {
 
                 break;
             case "podcast":
-                entries = new ArrayList<>(Admin.getPodcasts());
+                entries = new ArrayList<>(admin.getPodcasts());
 
                 if (filters.getName() != null) {
                     entries = filterByName(entries, filters.getName());
@@ -116,7 +125,7 @@ public final class SearchBar {
 
                 break;
             case "album":
-                entries = new ArrayList<>(Admin.getAlbums());
+                entries = new ArrayList<>(admin.getAlbums());
                 if (filters.getName() != null) {
                     entries = filterByName(entries, filters.getName());
                 }
@@ -128,13 +137,13 @@ public final class SearchBar {
                 }
                 break;
             case "artist":
-                entries = new ArrayList<>(Admin.getArtistsLibrary());
+                entries = new ArrayList<>(admin.getArtistsLibrary());
                 if (filters.getName() != null) {
                     entries = filtersByLetters(entries, filters.getName());
                 }
                 break;
             case "host":
-                entries = new ArrayList<>(Admin.getHostsLibrary());
+                entries = new ArrayList<>(admin.getHostsLibrary());
                 if (filters.getName() != null) {
                     entries = filtersByLetters(entries, filters.getName());
                 }

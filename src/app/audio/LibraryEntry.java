@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 @Getter
 public abstract class LibraryEntry {
-    public final String name;
+    private final String name;
 
     /**
      * Instantiates a new Library entry.
@@ -99,6 +99,13 @@ public abstract class LibraryEntry {
     public boolean matchesOwner(final String user) {
         return false;
     }
+
+    /**
+     * Matches description boolean.
+     *
+     * @param description the description
+     * @return the boolean
+     */
     public boolean matchesDescription(final String description) {
         return false;
     }
@@ -122,6 +129,12 @@ public abstract class LibraryEntry {
     public boolean matchesFollowers(final String followers) {
         return false;
     }
+
+    /**
+     * Gets name of owner
+     *
+     * @return the name of owner
+     */
     public String getOwner() {
         return name;
     }

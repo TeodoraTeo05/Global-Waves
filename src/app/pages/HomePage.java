@@ -12,10 +12,14 @@ public final class HomePage extends Page {
         super(user);
     }
 
+    /**
+     * @return the current page
+     */
+
     @Override
     public String currentPage() {
 
-        ArrayList<Song> songs= new ArrayList<>(user.getLikedSongs());
+        ArrayList<Song> songs = new ArrayList<>(user.getLikedSongs());
 
         songs.sort((o1, o2) -> o2.getLikes() - o1.getLikes());
 

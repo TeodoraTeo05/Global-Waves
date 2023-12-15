@@ -135,6 +135,12 @@ public final class Playlist extends AudioCollection {
             return count == Integer.parseInt(query);
         }
     }
+
+    /**
+     * Gets total likes.
+     *
+     * @return the total likes
+     */
     public int getTotalLikes() {
         int totalLikes = 0;
         for (Song song : songs) {

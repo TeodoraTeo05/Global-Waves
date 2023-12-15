@@ -69,7 +69,8 @@ public final class Event {
                 return false;
             }
 
-            if ((month == APRIL || month == JUNE || month == SEPTEMBER || month == NOVEMBER) && day > MAX_DAY_SHORT_MONTH) {
+            if ((month == APRIL || month == JUNE || month == SEPTEMBER || month == NOVEMBER)
+                    && day > MAX_DAY_SHORT_MONTH) {
                 return false;
             }
 

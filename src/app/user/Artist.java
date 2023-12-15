@@ -30,7 +30,7 @@ public final class Artist extends User {
         searchBar = new SearchBar(username);
     }
 
-
+    private static Admin admin = Admin.getInstance();
     /**
      * add an album
      * @param name        the name
@@ -43,7 +43,7 @@ public final class Artist extends User {
     public String addAlbum(final String name, final int releaseYear,
                            final String description, final ArrayList<SongInput> songs) {
 
-        for (Album album : Admin.getAlbums()) {
+        for (Album album : admin.getAlbums()) {
             if (album.getOwner().equals(getUsername())) {
                 if (album.getName().equals(name)) {
                     return getUsername() + " has another album with the same name.";
@@ -71,8 +71,9 @@ public final class Artist extends User {
             }
         }
 
-        Album album = new Album(name, getUsername(), albumSongs, releaseYear, description, totalLikes);
-        Admin.addAlbum(album);
+        Album album = new Album(name, getUsername(), albumSongs, releaseYear,
+                description, totalLikes);
+        admin.addAlbum(album);
         return getUsername() + " has added new album successfully.";
 
     }
@@ -85,7 +86,7 @@ public final class Artist extends User {
     @Override
     public ArrayList<AlbumOutput> showAlbums() {
         ArrayList<AlbumOutput> albums = new ArrayList<>();
-        for (Album album : Admin.getAlbums()) {
+        for (Album album : admin.getAlbums()) {
             if (album.getOwner().equals(this.getUsername())) {
                 albums.add(new AlbumOutput(album));
             }
@@ -106,7 +107,7 @@ public final class Artist extends User {
         if (!Event.isValidDate(date)) {
             return getUsername() + " does not have a valid date.";
         }
-        ArrayList<Event> events = Admin.getEvents();
+        ArrayList<Event> events = admin.getEvents();
         for (Event event : events) {
             if (event.getName().equals(name)) {
                 return getUsername() + " has another event with the same name.";

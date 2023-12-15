@@ -43,6 +43,20 @@ public final class Admin {
     private static ArrayList<Merch> merch = new ArrayList<>();
     private static int timestamp = 0;
     private static final int LIMIT = 5;
+    private static Admin instance = null;
+
+    /**
+     * Gets instance.
+     *
+     * @return the instance
+     */
+
+    public static Admin getInstance() {
+        if (instance == null) {
+            instance = new Admin();
+        }
+        return instance;
+    }
 
     private Admin() {
     }
@@ -52,7 +66,7 @@ public final class Admin {
      *
      * @param userInputList the user input list
      */
-    public static void setUsers(final List<UserInput> userInputList) {
+    public void setUsers(final List<UserInput> userInputList) {
         users = new ArrayList<>();
         for (UserInput userInput : userInputList) {
             users.add(new User(userInput.getUsername(), userInput.getAge(), userInput.getCity()));
@@ -63,7 +77,7 @@ public final class Admin {
      *
      * @param songInputList the song input list
      */
-    public static void setSongs(final List<SongInput> songInputList) {
+    public void setSongs(final List<SongInput> songInputList) {
         songs = new ArrayList<>();
         for (SongInput songInput : songInputList) {
             songs.add(new Song(songInput.getName(), songInput.getDuration(), songInput.getAlbum(),
@@ -78,7 +92,7 @@ public final class Admin {
      *
      * @param podcastInputList the podcast input list
      */
-    public static void setPodcasts(final List<PodcastInput> podcastInputList) {
+    public void setPodcasts(final List<PodcastInput> podcastInputList) {
         podcasts = new ArrayList<>();
         for (PodcastInput podcastInput : podcastInputList) {
             List<Episode> episodes = new ArrayList<>();
@@ -97,7 +111,7 @@ public final class Admin {
      *
      * @return the songs
      */
-    public static List<Song> getSongs() {
+    public List<Song> getSongs() {
         return new ArrayList<>(songs);
     }
 
@@ -106,7 +120,7 @@ public final class Admin {
      *
      * @return the podcasts
      */
-    public static List<Podcast> getPodcasts() {
+    public List<Podcast> getPodcasts() {
         return new ArrayList<>(podcasts);
     }
     /**
@@ -114,7 +128,7 @@ public final class Admin {
      *
      * @return the playlists
      */
-    public static List<Playlist> getPlaylists() {
+    public List<Playlist> getPlaylists() {
         List<Playlist> playlists = new ArrayList<>();
         for (User user : users) {
             playlists.addAll(user.getPlaylists());
@@ -128,7 +142,7 @@ public final class Admin {
      * @param username the username
      * @return the user
      */
-    public static User getUser(final String username) {
+    public User getUser(final String username) {
         for (User user : users) {
             if (user.getUsername().equals(username)) {
                 return user;
@@ -142,7 +156,7 @@ public final class Admin {
      *
      * @param newTimestamp the new timestamp
      */
-    public static void updateTimestamp(final int newTimestamp) {
+    public void updateTimestamp(final int newTimestamp) {
         int elapsed = newTimestamp - timestamp;
         timestamp = newTimestamp;
         if (elapsed == 0) {
@@ -159,7 +173,7 @@ public final class Admin {
      *
      * @return the top 5 songs
      */
-    public static List<String> getTop5Songs() {
+    public List<String> getTop5Songs() {
         List<Song> sortedSongs = new ArrayList<>(songs);
         sortedSongs.sort(Comparator.comparingInt(Song::getLikes).reversed());
         List<String> topSongs = new ArrayList<>();
@@ -179,7 +193,7 @@ public final class Admin {
      *
      * @return the top 5 playlists
      */
-    public static List<String> getTop5Playlists() {
+    public List<String> getTop5Playlists() {
         List<Playlist> sortedPlaylists = new ArrayList<>(getPlaylists());
         sortedPlaylists.sort(Comparator.comparingInt(Playlist::getFollowers)
                 .reversed()
@@ -200,7 +214,7 @@ public final class Admin {
      * gets the online users
      * @return the online users
      */
-    public static List<String> getOnlineUsers() {
+    public List<String> getOnlineUsers() {
         List<String> onlineUsers = new ArrayList<>();
         for (User user : users) {
             if (user.isOnline() && user.getType() == "user") {
@@ -218,7 +232,7 @@ public final class Admin {
      * @param city the city
      * @return the string with the message
      */
-    public static String addUser(final String type, final String username, final Integer age,
+    public String addUser(final String type, final String username, final Integer age,
                                  final String city) {
 
         for (User user : users) {
@@ -246,7 +260,7 @@ public final class Admin {
      * Add album.
      * @param album
      */
-    public static void addAlbum(final Album album) {
+    public void addAlbum(final Album album) {
         albums.add(album);
         songs.addAll(album.getSongs());
 
@@ -259,24 +273,24 @@ public final class Admin {
      * @param description
      * @param date
      */
-    public static void addEvent(final String owner, final String name,
+    public void addEvent(final String owner, final String name,
                                 final String description, final String date) {
         events.add(new Event(owner, name, description, date));
     }
 
     /**
      * Add merch.
-     * @param merch
+     * @param newMerch the merch
      */
-    public static void addMerch(final Merch merch) {
-        Admin.merch.add(merch);
+    public void addMerch(final Merch newMerch) {
+        Admin.merch.add(newMerch);
     }
     /**
      * Gets All users.
      *
      * @return String with all users
      */
-    public static String getAllUsers() {
+    public String getAllUsers() {
         List<User> normalUsers = new ArrayList<>();
         List<User> artists = new ArrayList<>();
         List<User> hosts = new ArrayList<>();
@@ -306,7 +320,13 @@ public final class Admin {
         return builder.toString();
     }
 
-    public static List<String> getTop5Albums() {
+    /**
+     * Gets top 5 albums.
+     *
+     * @return the top 5 artists
+     */
+
+    public List<String> getTop5Albums() {
         List<Album> allAlbums = new ArrayList<>(getAlbums());
 
         allAlbums.sort((album1, album2) -> {
@@ -329,7 +349,7 @@ public final class Admin {
     /**
      * Reset.
      */
-    public static void reset() {
+    public void reset() {
         users = new ArrayList<>();
         songs = new ArrayList<>();
         podcasts = new ArrayList<>();

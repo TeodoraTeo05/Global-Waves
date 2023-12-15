@@ -30,6 +30,14 @@ public final class FilterUtils {
         }
         return result;
     }
+
+    /**
+     * Filters by letters.
+     *
+     * @param entries the entries
+     * @param name    the name
+     * @return the list
+     */
     public static List<LibraryEntry> filtersByLetters(final List<LibraryEntry> entries,
                                                   final String name) {
         ArrayList<LibraryEntry> result = new ArrayList<>();
@@ -136,6 +144,13 @@ public final class FilterUtils {
                                                                 final String user) {
         return filter(entries, entry -> entry.isVisibleToUser(user));
     }
+    /**
+     * Filter by description list.
+     *
+     * @param entries the entries
+     * @param description    the description
+     * @return the list
+     */
     public static List<LibraryEntry> filterByDescription(final List<LibraryEntry> entries,
                                                                 final String description) {
         return filter(entries, entry -> entry.matchesDescription(description));
@@ -153,6 +168,13 @@ public final class FilterUtils {
         return filter(entries, entry -> entry.matchesFollowers(followers));
     }
 
+    /**
+     * Filter.
+     *
+     * @param entries   the entriess
+     * @return
+     */
+
     private static List<LibraryEntry> filter(final List<LibraryEntry> entries,
                                              final FilterCriteria criteria) {
         List<LibraryEntry> result = new ArrayList<>();
@@ -164,6 +186,9 @@ public final class FilterUtils {
         return result;
     }
 
+    /**
+     * The interface Filter criteria.
+     */
     @FunctionalInterface
     private interface FilterCriteria {
         /**

@@ -9,8 +9,6 @@ import app.user.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import fileio.input.CommandInput;
-import org.checkerframework.checker.units.qual.C;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,6 +23,7 @@ public final class CommandRunner {
 
     private CommandRunner() {
     }
+    private static Admin admin = Admin.getInstance();
 
     /**
      * Invalid user object node.
@@ -64,7 +63,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode search(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         Filters filters = new Filters(commandInput.getFilters());
         String type = commandInput.getType();
 
@@ -106,7 +105,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode select(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -132,7 +131,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode load(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -159,7 +158,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode playPause(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -185,7 +184,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode repeat(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -211,7 +210,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode shuffle(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -238,7 +237,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode forward(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -264,7 +263,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode backward(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -290,7 +289,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode like(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -316,7 +315,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode next(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -342,7 +341,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode prev(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -368,7 +367,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode createPlaylist(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -395,7 +394,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode addRemoveInPlaylist(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -421,7 +420,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode switchVisibility(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -447,7 +446,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode showPlaylists(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -481,7 +480,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode follow(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -506,7 +505,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode status(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -528,7 +527,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode showLikedSongs(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -562,7 +561,7 @@ public final class CommandRunner {
      * @return the preferred genre
      */
     public static ObjectNode getPreferredGenre(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -594,7 +593,7 @@ public final class CommandRunner {
      * @return the top 5 songs
      */
     public static ObjectNode getTop5Songs(final CommandInput commandInput) {
-        List<String> songs = Admin.getTop5Songs();
+        List<String> songs = admin.getTop5Songs();
 
         ObjectNode objectNode = objectMapper.createObjectNode();
         objectNode.put("command", commandInput.getCommand());
@@ -611,7 +610,7 @@ public final class CommandRunner {
      * @return the top 5 playlists
      */
     public static ObjectNode getTop5Playlists(final CommandInput commandInput) {
-        List<String> playlists = Admin.getTop5Playlists();
+        List<String> playlists = admin.getTop5Playlists();
 
         ObjectNode objectNode = objectMapper.createObjectNode();
         objectNode.put("command", commandInput.getCommand());
@@ -626,7 +625,7 @@ public final class CommandRunner {
      *  @return the object node
      */
     public static ObjectNode switchConnectionStatus(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -648,7 +647,7 @@ public final class CommandRunner {
         *  @return the object node
         */
     public static ObjectNode getOnlineUsers(final CommandInput commandInput) {
-        List<String> users = Admin.getOnlineUsers();
+        List<String> users = admin.getOnlineUsers();
         ObjectNode objectNode = objectMapper.createObjectNode();
         objectNode.put("command", commandInput.getCommand());
         objectNode.put("timestamp", commandInput.getTimestamp());
@@ -664,7 +663,7 @@ public final class CommandRunner {
         */
     public static ObjectNode addUser(final CommandInput commandInput) {
 
-        String message = Admin.addUser(commandInput.getType(), commandInput.getUsername(),
+        String message = admin.addUser(commandInput.getType(), commandInput.getUsername(),
                         commandInput.getAge(), commandInput.getCity());
         ObjectNode objectNode = objectMapper.createObjectNode();
         objectNode.put("command", commandInput.getCommand());
@@ -682,7 +681,7 @@ public final class CommandRunner {
         *  @return the object node
         */
     public static ObjectNode addAlbum(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -706,7 +705,7 @@ public final class CommandRunner {
         */
     public static ObjectNode showAlbums(final CommandInput commandInput) {
 
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         ArrayList<AlbumOutput> albums = user.showAlbums();
 
         ObjectNode objectNode = objectMapper.createObjectNode();
@@ -724,7 +723,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode printCurrentPage(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -745,7 +744,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode addEvent(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -767,7 +766,7 @@ public final class CommandRunner {
      * @return the object node
      */
     public static ObjectNode addMerch(final CommandInput commandInput) {
-        User user = Admin.getUser(commandInput.getUsername());
+        User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
@@ -790,7 +789,7 @@ public final class CommandRunner {
      */
     public static ObjectNode getAllUsers(final CommandInput commandInput) {
         ArrayList<String> userNames = new ArrayList<>();
-        for (User user : Admin.getUsers()) {
+        for (User user : admin.getUsers()) {
             userNames.add(user.getUsername());
         }
         ObjectNode objectNode = objectMapper.createObjectNode();
@@ -801,8 +800,13 @@ public final class CommandRunner {
         return objectNode;
     }
 
+    /**
+     * gets top 5 albums
+     * @param commandInput
+     * @return the object node
+     */
     public static ObjectNode getTop5Albums(final CommandInput commandInput) {
-        List<String> albums = Admin.getTop5Albums();
+        List<String> albums = admin.getTop5Albums();
 
         ObjectNode objectNode = objectMapper.createObjectNode();
         objectNode.put("command", commandInput.getCommand());

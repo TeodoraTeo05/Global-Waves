@@ -511,7 +511,12 @@ public class User {
 
     }
 
-    //switch vis
+    /**
+     * Switch connection status string.
+     *
+     * @return the string
+     */
+
 
     public String switchConnectionStatus() {
         if (online) {
@@ -522,6 +527,15 @@ public class User {
         online = true;
         return " has changed status successfully.";
     }
+    /**
+     * Add album string.
+     *
+     * @param name        the name
+     * @param releaseYear the release year
+     * @param description the description
+     * @param songs       the songs
+     * @return the string
+     */
     public String addAlbum(final String name, final int releaseYear,
                            final String description, final ArrayList<SongInput> songs) {
 
@@ -529,27 +543,59 @@ public class User {
 
     }
 
-
+    /**
+     * Show albums array list.
+     *
+     * @return the array list
+     */
     public ArrayList<AlbumOutput> showAlbums() {
         return new ArrayList<>();
     }
 
+    /**
+     * Print current page string.
+     * @return the string
+     */
     public String printCurrentPage() {
         if (!online) {
             return username + " is offline.";
         }
         return currentPage.currentPage();
     }
+
+    /**
+     * Add event string.
+     * @param name the name
+     * @param description the description
+     * @param date the date
+     * @return the string
+     */
     public String addEvent(final String name, final String description, final String date) {
         return username + " is not an artist.";
     }
-    public String addEvent(final String name, final String description, final String date, final String location) {
+
+    /**
+     * Add merch string.
+     * @param name the name
+     * @param description the description
+     * @param date the date
+     * @param location the location
+     * @return the string
+     */
+    public String addEvent(final String name, final String description,
+                           final String date, final String location) {
         return username + " is not an artist.";
     }
+
+    /**
+     * Add merch string.
+     * @param name the name
+     * @param description the description
+     * @param price the price
+     * @return the string
+     */
     public String addMerch(final String name, final String description, final Integer price) {
         return username + " is not an artist.";
     }
-    public static List<User> getUsersList() {
-        return new ArrayList<>();
-    }
+
 }

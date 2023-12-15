@@ -2,19 +2,17 @@ package app.audio.Collections;
 
 import app.audio.Files.AudioFile;
 import app.audio.Files.Song;
-import app.audio.LibraryEntry;
 import lombok.Getter;
-import lombok.Setter;
-
 import java.util.ArrayList;
 import java.util.List;
 @Getter
-public class Album extends AudioCollection {
+public final class Album extends AudioCollection {
     private ArrayList<Song> songs;
     private Integer releaseYear;
     private String description;
 
-    public Album(String name, String owner, final ArrayList<Song> songs, final Integer releaseYear, final String description) {
+    public Album(final String name, final String owner, final ArrayList<Song> songs,
+                 final Integer releaseYear, final String description) {
         super(name, owner);
         this.songs = songs;
         this.releaseYear = releaseYear;
@@ -27,14 +25,14 @@ public class Album extends AudioCollection {
     }
 
     @Override
-    public AudioFile getTrackByIndex(int index) {
+    public AudioFile getTrackByIndex(final int index) {
         return songs.get(index);
     }
     public List<Song> getSongs() {
         return songs;
     }
 
-    public void setSongs(ArrayList<Song> songs) {
+    public void setSongs(final ArrayList<Song> songs) {
         this.songs = songs;
     }
 
@@ -42,7 +40,7 @@ public class Album extends AudioCollection {
         return releaseYear;
     }
 
-    public void setReleaseYear(Integer releaseYear) {
+    public void setReleaseYear(final Integer releaseYear) {
         this.releaseYear = releaseYear;
     }
 
@@ -50,7 +48,7 @@ public class Album extends AudioCollection {
         return description;
     }
 
-    public void setDescription(String description) {
+    public void setDescription(final String description) {
         this.description = description;
     }
 }

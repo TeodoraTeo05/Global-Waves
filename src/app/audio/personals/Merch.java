@@ -1,9 +1,8 @@
 package app.audio.personals;
 
-import app.audio.LibraryEntry;
 import lombok.Getter;
 
-public class Merch {
+public final class Merch {
     @Getter
     private String owner;
     @Getter
@@ -13,7 +12,8 @@ public class Merch {
     @Getter
     private Integer price;
 
-    public Merch(String owner, String name, String description, Integer price) {
+    public Merch(final String owner, final String name, final String description,
+                 final Integer price) {
         this.owner = owner;
         this.name = name;
         this.description = description;

@@ -100,7 +100,8 @@ public final class Main {
                 case "next" -> outputs.add(CommandRunner.next(command));
                 case "prev" -> outputs.add(CommandRunner.prev(command));
                 case "createPlaylist" -> outputs.add(CommandRunner.createPlaylist(command));
-                case "addRemoveInPlaylist" -> outputs.add(CommandRunner.addRemoveInPlaylist(command));
+                case "addRemoveInPlaylist" -> outputs.
+                        add(CommandRunner.addRemoveInPlaylist(command));
                 case "switchVisibility" -> outputs.add(CommandRunner.switchVisibility(command));
                 case "showPlaylists" -> outputs.add(CommandRunner.showPlaylists(command));
                 case "follow" -> outputs.add(CommandRunner.follow(command));
@@ -109,7 +110,8 @@ public final class Main {
                 case "getPreferredGenre" -> outputs.add(CommandRunner.getPreferredGenre(command));
                 case "getTop5Songs" -> outputs.add(CommandRunner.getTop5Songs(command));
                 case "getTop5Playlists" -> outputs.add(CommandRunner.getTop5Playlists(command));
-                case "switchConnectionStatus" -> outputs.add(CommandRunner.switchConnectionStatus(command));
+                case "switchConnectionStatus" ->
+                        outputs.add(CommandRunner.switchConnectionStatus(command));
                 case "getOnlineUsers" -> outputs.add(CommandRunner.getOnlineUsers(command));
                 case "addUser" -> outputs.add(CommandRunner.addUser(command));
                 case "addAlbum" -> outputs.add(CommandRunner.addAlbum(command));
@@ -121,17 +123,6 @@ public final class Main {
                 default -> System.out.println("Invalid command " + commandName);
             }
         }
-
-//        AudioFile listeningTo; -> song / episode
-//        listeningTo.matchesTags();
-//
-//        Episode listeningToEp;
-//        Song listeningToSong;
-//
-//        if (listeningToEp != null)
-//            listeningToEp.matchesLyrics();
-//        else if (song != null)
-//            listeningToSong.matchesLyrics();
 
         ObjectWriter objectWriter = objectMapper.writerWithDefaultPrettyPrinter();
         objectWriter.writeValue(new File(filePath2), outputs);

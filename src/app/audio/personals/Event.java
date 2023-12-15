@@ -1,11 +1,9 @@
 package app.audio.personals;
-import app.audio.LibraryEntry;
 import lombok.Getter;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Date;
-public class Event {
+public final class Event {
     @Getter
     private String name;
     @Getter
@@ -13,55 +11,71 @@ public class Event {
     @Getter
     private String description;
     @Getter
-    private String date; // Format dd-mm-yyyy
+    private String date;
+    private static final int MIN_YEAR = 1900;
+    private static final int MAX_YEAR = 2023;
+    private static final int MIN_MONTH = 1;
+    private static final int MAX_MONTH = 12;
+    private static final int MIN_DAY = 1;
+    private static final int MAX_DAY = 31;
+    private static final int FEBRUARY = 2;
+    private static final int APRIL = 4;
+    private static final int JUNE = 6;
+    private static final int SEPTEMBER = 9;
+    private static final int NOVEMBER = 11;
+    private static final int MAX_DAY_FEBRUARY = 28;
+    private static final int MAX_DAY_SHORT_MONTH = 30;
+    private static final String DATE_FORMAT = "dd-MM-yyyy";
 
-    public Event(String owner, String name, String description, String date) {
+    public Event(final String owner, final String name, final String description,
+                 final String date) {
         this.owner = owner;
         this.name = name;
         this.description = description;
         this.date = date;
     }
 
-    public class DateValidator {
-        public static boolean isValidDate(String dateString) {
-            SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
-            sdf.setLenient(false); // Setează să nu fie permisive interpretările datei
+    /**
+     * Checks if the date is valid.
+     *
+     * @param dateString the date string
+     * @return true if the date is valid, false otherwise
+     */
+    public static boolean isValidDate(final String dateString) {
+        SimpleDateFormat sdf = new SimpleDateFormat(DATE_FORMAT);
+        sdf.setLenient(false);
 
-            try {
-                sdf.parse(dateString); // Verificăm dacă data este în formatul corect
+        try {
+            sdf.parse(dateString);
 
-                String[] parts = dateString.split("-");
-                int day = Integer.parseInt(parts[0]);
-                int month = Integer.parseInt(parts[1]);
-                int year = Integer.parseInt(parts[2]);
+            String[] parts = dateString.split("-");
+            int day = Integer.parseInt(parts[0]);
+            int month = Integer.parseInt(parts[1]);
+            int year = Integer.parseInt(parts[2]);
 
-                if (year < 1900 || year > 2023) {
-                    return false; // Anul nu este în intervalul acceptat
-                }
-
-                if (month < 1 || month > 12) {
-                    return false; // Luna nu este validă
-                }
-
-                if (day < 1 || day > 31) {
-                    return false; // Ziua nu este validă
-                }
-
-                // Verifică special pentru luna februarie
-                if (month == 2 && day > 28) {
-                    return false; // Februarie nu poate avea mai mult de 28 de zile
-                }
-
-                // Verifică luni cu 30 de zile
-                if ((month == 4 || month == 6 || month == 9 || month == 11) && day > 30) {
-                    return false; // Aprilie, Iunie, Septembrie, Noiembrie nu pot avea mai mult de 30 de zile
-                }
-
-                return true; // Data este validă
-            } catch (ParseException | NumberFormatException e) {
-                return false; // Formatul datei este invalid sau eroare la conversia numerelor
+            if (year < MIN_YEAR || year > MAX_YEAR) {
+                return false;
             }
-        }
 
+            if (month < MIN_MONTH || month > MAX_MONTH) {
+                return false;
+            }
+
+            if (day < MIN_DAY || day > MAX_DAY) {
+                return false;
+            }
+
+            if (month == FEBRUARY && day > MAX_DAY_FEBRUARY) {
+                return false;
+            }
+
+            if ((month == APRIL || month == JUNE || month == SEPTEMBER || month == NOVEMBER) && day > MAX_DAY_SHORT_MONTH) {
+                return false;
+            }
+
+            return true;
+        } catch (ParseException | NumberFormatException e) {
+            return false;
+        }
     }
 }

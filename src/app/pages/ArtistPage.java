@@ -5,13 +5,12 @@ import app.audio.Collections.Album;
 import app.audio.personals.Event;
 import app.audio.personals.Merch;
 import app.user.User;
-import org.checkerframework.checker.units.qual.A;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArtistPage extends Page {
-    public ArtistPage(User user) {
+public final class ArtistPage extends Page {
+    public ArtistPage(final User user) {
         super(user);
     }
 
@@ -34,7 +33,6 @@ public class ArtistPage extends Page {
             for (int i = 0; i < artistAlbums.size(); i++) {
                 Album album = artistAlbums.get(i);
                 builder.append(album.getName());
-                // Adăugăm virgula doar dacă nu suntem la ultimul element
                 if (i < artistAlbums.size() - 1) {
                     builder.append(", ");
                 }
@@ -63,7 +61,6 @@ public class ArtistPage extends Page {
                         builder.append(":\n\t").append(merch.getDescription());
                     }
 
-                    // Adăugăm virgula doar dacă nu suntem la ultimul element
                     if (i < artistMerch.size() - 1) {
                         builder.append(", ");
                     }
@@ -94,7 +91,6 @@ public class ArtistPage extends Page {
                         builder.append(":\n\t").append(event.getDescription());
                     }
 
-                    // Adăugăm virgula doar dacă nu suntem la ultimul element
                     if (i < artistEvents.size() - 1) {
                         builder.append(", ");
                     }

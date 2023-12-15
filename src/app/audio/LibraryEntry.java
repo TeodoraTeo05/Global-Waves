@@ -1,7 +1,6 @@
 package app.audio;
 
 import lombok.Getter;
-import app.user.User;
 
 import java.util.ArrayList;
 

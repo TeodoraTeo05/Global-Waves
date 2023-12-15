@@ -2,9 +2,9 @@ package app.pages;
 
 import app.user.User;
 
-public class HostPage extends Page {
+public final class HostPage extends Page {
 
-    public HostPage(User user) {
+    public HostPage(final User user) {
         super(user);
     }
 

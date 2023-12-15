@@ -5,7 +5,10 @@ import app.audio.Collections.Playlist;
 import app.audio.Collections.Podcast;
 import app.audio.Files.Episode;
 import app.audio.Files.Song;
-import app.audio.personals.*;
+import app.audio.personals.Event;
+import app.audio.personals.Merch;
+import app.audio.personals.ArtistEntry;
+import app.audio.personals.HostEntry;
 import app.user.Artist;
 import app.user.Host;
 import app.user.User;
@@ -194,7 +197,8 @@ public final class Admin {
     }
 
     /**
-     * Reset.
+     * gets the online users
+     * @return the online users
      */
     public static List<String> getOnlineUsers() {
         List<String> onlineUsers = new ArrayList<>();
@@ -206,8 +210,16 @@ public final class Admin {
         return onlineUsers;
     }
 
-    public static String addUser(String type, String username, Integer age,
-                                 String city) {
+    /**
+     * Add user string.
+     * @param type the type
+     * @param username the username
+     * @param age the age
+     * @param city the city
+     * @return the string with the message
+     */
+    public static String addUser(final String type, final String username, final Integer age,
+                                 final String city) {
 
         for (User user : users) {
             if (user.getUsername().equals(username)) {
@@ -229,24 +241,46 @@ public final class Admin {
 
         return "The username " + username + " has been added successfully.";
     }
-    public static void addAlbum(Album album) {
+
+    /**
+     * Add album.
+     * @param album
+     */
+    public static void addAlbum(final Album album) {
         albums.add(album);
         songs.addAll(album.getSongs());
 
     }
-    public static void addEvent(String owner, String name, String description, String date) {
+
+    /**
+     * Add event.
+     * @param owner
+     * @param name
+     * @param description
+     * @param date
+     */
+    public static void addEvent(final String owner, final String name,
+                                final String description, final String date) {
         events.add(new Event(owner, name, description, date));
     }
-    public static void addMerch(Merch merch) {
+
+    /**
+     * Add merch.
+     * @param merch
+     */
+    public static void addMerch(final Merch merch) {
         Admin.merch.add(merch);
     }
-
+    /**
+     * Gets All users.
+     *
+     * @return String with all users
+     */
     public static String getAllUsers() {
         List<User> normalUsers = new ArrayList<>();
         List<User> artists = new ArrayList<>();
         List<User> hosts = new ArrayList<>();
 
-        // Parcurgem toți utilizatorii și îi clasificăm
         for (User user : users) {
             String type = user.getType();
             if (type.equals("user")) {
@@ -258,13 +292,12 @@ public final class Admin {
             }
         }
 
-        // Combinăm listele în ordinea specificată
         List<User> sortedUsers = new ArrayList<>();
         sortedUsers.addAll(normalUsers);
         sortedUsers.addAll(artists);
         sortedUsers.addAll(hosts);
 
-        // Construim un string cu numele utilizatorilor
+
         StringBuilder builder = new StringBuilder();
         builder.append("[ ");
         for (User user : sortedUsers) {
@@ -273,9 +306,9 @@ public final class Admin {
         return builder.toString();
     }
 
-    public static String deleteUser(String username) {
-        return null;
-    }
+    /**
+     * Reset.
+     */
     public static void reset() {
         users = new ArrayList<>();
         songs = new ArrayList<>();

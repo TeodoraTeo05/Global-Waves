@@ -1,9 +1,11 @@
-# Proiect GlobalWaves  - Etapa 2
+# Proiect GlobalWaves  - Teodorescu Teodora-Nicola
 
-<div align="center"><img src="https://tenor.com/view/listening-to-music-spongebob-gif-8009182.gif" width="300px"></div>
+[//]: # (<div align="center"><img src="https://tenor.com/view/listening-to-music-spongebob-gif-8009182.gif" width="300px"></div>)
 
-#### Assignment Link: [https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa1](https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa1)
+[//]: # ()
+[//]: # (#### Assignment Link: [https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa1]&#40;https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa1&#41;)
 
+[//]: # ()
 
 ## Skel Structure
 
@@ -17,4 +19,4 @@
 * input/ - contains the tests and library in JSON format
 * ref/ - contains all reference output for the tests in JSON format
 
-<div align="center"><img src="https://tenor.com/view/homework-time-gif-24854817.gif" width="500px"></div>
+//<div align="center"><img src="https://tenor.com/view/homework-time-gif-24854817.gif" width="500px"></div>

@@ -12,7 +12,7 @@ import lombok.Getter;
 
 import java.util.ArrayList;
 
-public class Artist extends User {
+public final class Artist extends User {
     @Getter
     private boolean lastSearched;
     @Getter
@@ -24,14 +24,21 @@ public class Artist extends User {
      * @param age      the age
      * @param city     the city
      */
-    public Artist(String username, int age, String city) {
+    public Artist(final String username, final int age, final String city) {
         super(username, age, city);
         setType("artist");
         searchBar = new SearchBar(username);
     }
 
 
-
+    /**
+     * add an album
+     * @param name        the name
+     * @param releaseYear the release year
+     * @param description the description
+     * @param songs       the songs
+     * @return the string
+     */
     @Override
     public String addAlbum(final String name, final int releaseYear,
                            final String description, final ArrayList<SongInput> songs) {
@@ -63,6 +70,12 @@ public class Artist extends User {
         return getUsername() + " has added new album successfully.";
 
     }
+
+    /**
+     * Show albums array list.
+     *
+     * @return the array list
+     */
     @Override
     public ArrayList<AlbumOutput> showAlbums() {
         ArrayList<AlbumOutput> albums = new ArrayList<>();
@@ -73,8 +86,18 @@ public class Artist extends User {
         }
         return albums;
     }
+
+    /**
+     * Add event string.
+     * @param name the name
+     * @param description the description
+     * @param date the date
+     * @return
+     */
+
+    @Override
     public String addEvent(final String name, final String description, final String date) {
-        if (!Event.DateValidator.isValidDate(date)) {
+        if (!Event.isValidDate(date)) {
             return getUsername() + " does not have a valid date.";
         }
         ArrayList<Event> events = Admin.getEvents();
@@ -87,6 +110,14 @@ public class Artist extends User {
         return getUsername() + " has added new event successfully.";
 
     }
+
+    /**
+     * Add merch string.
+     * @param name the name
+     * @param description the description
+     * @param price the price
+     * @return
+     */
     @Override
     public String addMerch(final String name, final String description, final Integer price) {
         if (price < 0) {
@@ -103,8 +134,3 @@ public class Artist extends User {
 
     }
 }
-
-//git add .
-//       git commit -m "message"
-//      git push origin master
-//cand strici ceva ca sa revii la ultimul commit salvat git reset --hard HEAD

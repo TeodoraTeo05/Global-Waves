@@ -35,7 +35,7 @@ public abstract class AudioCollection extends LibraryEntry {
      * @param index the index
      * @return the track by index
      */
-    public abstract AudioFile getTrackByIndex(int index);
+    public abstract AudioFile getTrackByIndex(final int index);
 
     /**
      *

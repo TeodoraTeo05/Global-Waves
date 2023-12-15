@@ -2,11 +2,11 @@ package app.audio.personals;
 
 import app.audio.LibraryEntry;
 
-public class HostEntry extends LibraryEntry {
+public final class HostEntry extends LibraryEntry {
     private int age;
     private String city;
 
-    public HostEntry(String name, int age, String city) {
+    public HostEntry(final String name, final int age, final String city) {
         super(name);
         this.age = age;
         this.city = city;

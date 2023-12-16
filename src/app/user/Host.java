@@ -1,11 +1,9 @@
 package app.user;
 
 import app.Admin;
-import app.audio.Collections.Album;
 import app.audio.Collections.Podcast;
 import app.audio.Files.Episode;
 import app.personals.Announcement;
-import app.personals.Event;
 import fileio.input.EpisodeInput;
 
 import java.util.ArrayList;
@@ -13,7 +11,7 @@ import java.util.List;
 
 public class Host extends User {
 
-    Admin admin = Admin.getInstance();
+    private static Admin admin = Admin.getInstance();
     /**
      * Instantiates a new User.
      *
@@ -25,6 +23,13 @@ public class Host extends User {
         super(username, age, city);
         setType("host");
     }
+
+    /**
+     * add a podcast
+     * @param name
+     * @param episodeInputs
+     * @return  the string
+     */
 
     public String addPodcast(final String name, final ArrayList<EpisodeInput> episodeInputs) {
 
@@ -40,7 +45,8 @@ public class Host extends User {
         }
         ArrayList<Episode> episodes = new ArrayList<>();
         for (EpisodeInput input : episodeInputs) {
-            Episode episode = new Episode(input.getName(), input.getDuration(), input.getDescription());
+            Episode episode = new Episode(input.getName(), input.getDuration(),
+                    input.getDescription());
             episodes.add(episode);
         }
 
@@ -49,6 +55,12 @@ public class Host extends User {
         return getUsername() + " has added new podcast successfully.";
 
     }
+
+    /**
+     * remove a podcast
+     * @param name the name
+     * @return the string
+     */
 
     public String removePodcast(final String name) {
         List<Podcast> podcasts = admin.getPodcasts();
@@ -59,8 +71,16 @@ public class Host extends User {
                 return getUsername() + " deleted the podcast successfully.";
             }
         }
+
         return getUsername() + " doesn't have a podcast with the given name.";
     }
+
+    /**
+     * add announcement
+     * @param name the name
+     * @param description the description
+     * @return the string
+     */
 
     public String addAnnouncement(final String name, final String description) {
         ArrayList<Announcement> announcements = admin.getAnnouncements();

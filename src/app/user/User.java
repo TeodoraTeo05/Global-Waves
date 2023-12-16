@@ -1,7 +1,13 @@
 package app.user;
 
 import app.Admin;
-import app.audio.Collections.*;
+import app.audio.Collections.Album;
+import app.audio.Collections.AudioCollection;
+import app.audio.Collections.Playlist;
+import app.audio.Collections.Podcast;
+import app.audio.Collections.AlbumOutput;
+import app.audio.Collections.PlaylistOutput;
+import app.audio.Collections.PodcastOutput;
 import app.audio.Files.AudioFile;
 import app.audio.Files.Song;
 import app.audio.LibraryEntry;
@@ -605,19 +611,35 @@ public class User {
         return username + " is not an artist.";
     }
 
+    /**
+     * add podcast string.
+     * @param name
+     * @param episodes
+     * @return
+     */
     public String addPodcast(final String name, final ArrayList<EpisodeInput> episodes) {
         return username + " is not a host.";
     }
 
+    /**
+     * Remove podcast string.
+     * @param name the name
+     * @return the string
+     */
     public String removePodcast(final String name) {
 
         if (player.getCurrentAudioCollection() != null
-                && player.getCurrentAudioCollection().getName().equals(name)) {
+                && player.getCurrentAudioCollection().equals("podcast")) {
             return username + " can't delete this podcast.";
         }
 
         return username + " is not a host.";
     }
+
+    /**
+     * Show podcasts array list.
+     * @return the array list
+     */
 
     public ArrayList<PodcastOutput> showPodcasts() {
         ArrayList<PodcastOutput> podcastsOutput = new ArrayList<>();
@@ -633,6 +655,13 @@ public class User {
         return podcastsOutput;
 
     }
+
+    /**
+     * Add announcement string.
+     * @param name the name
+     * @param description the description
+     * @return the string
+     */
 
     public String addAnnouncement(final String name, final String description) {
         return username + " is not a host.";

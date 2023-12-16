@@ -5,7 +5,11 @@ import app.audio.Collections.Playlist;
 import app.audio.Collections.Podcast;
 import app.audio.Files.Episode;
 import app.audio.Files.Song;
-import app.personals.*;
+import app.personals.Announcement;
+import app.personals.Event;
+import app.personals.Merch;
+import app.personals.HostEntry;
+import app.personals.ArtistEntry;
 import app.user.Artist;
 import app.user.Host;
 import app.user.User;
@@ -95,14 +99,14 @@ public final class Admin {
     public void setPodcasts(final List<PodcastInput> podcastInputList) {
         podcasts = new ArrayList<>();
         for (PodcastInput podcastInput : podcastInputList) {
-            List<Episode> episodes = new ArrayList<>();
+            List<Episode> episodesSet = new ArrayList<>();
             for (EpisodeInput episodeInput : podcastInput.getEpisodes()) {
 
-                episodes.add(new Episode(episodeInput.getName(),
+                episodesSet.add(new Episode(episodeInput.getName(),
                                          episodeInput.getDuration(),
                                          episodeInput.getDescription()));
             }
-            podcasts.add(new Podcast(podcastInput.getName(), podcastInput.getOwner(), episodes));
+            podcasts.add(new Podcast(podcastInput.getName(), podcastInput.getOwner(), episodesSet));
         }
     }
 
@@ -346,6 +350,16 @@ public final class Admin {
 
     }
 
+    /**
+     * add podcast
+     * @param podcast
+     * @return
+     */
+    public void addPodcasts(final Podcast podcast) {
+        podcasts.add(podcast);
+        episodes.addAll(podcast.getEpisodes());
+    }
+
 
     /**
      * Reset.
@@ -365,8 +379,5 @@ public final class Admin {
     }
 
 
-    public void addPodcasts(Podcast podcast) {
-        podcasts.add(podcast);
-        episodes.addAll(podcast.getEpisodes());
-    }
+
 }

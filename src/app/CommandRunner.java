@@ -3,7 +3,6 @@ package app;
 
 import app.audio.Collections.AlbumOutput;
 import app.audio.Collections.PlaylistOutput;
-import app.audio.Collections.Podcast;
 import app.audio.Collections.PodcastOutput;
 import app.player.PlayerStats;
 import app.searchBar.Filters;
@@ -818,6 +817,11 @@ public final class CommandRunner {
         return objectNode;
     }
 
+    /**
+     * add a new podcast
+     * @param commandInput
+     * @return the object node
+     */
     public static ObjectNode addPodcast(final CommandInput commandInput) {
         User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
@@ -833,6 +837,12 @@ public final class CommandRunner {
 
         return objectNode;
     }
+
+    /**
+     * remove a podcast
+     * @param commandInput
+     * @return the object node
+     */
 
     public static ObjectNode removePodcast(final CommandInput commandInput) {
         User user = admin.getUser(commandInput.getUsername());
@@ -850,6 +860,12 @@ public final class CommandRunner {
         return objectNode;
     }
 
+    /**
+     * show podcasts
+     * @param commandInput
+     * @return the object node
+     */
+
     public static ObjectNode showPodcasts(final CommandInput commandInput) {
         User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
@@ -866,13 +882,20 @@ public final class CommandRunner {
         return objectNode;
     }
 
+    /**
+     * add an announcement
+     * @param commandInput
+     * @return the object node
+     */
+
     public static ObjectNode addAnnouncement(final CommandInput commandInput) {
         User user = admin.getUser(commandInput.getUsername());
         if (user == null) {
             return invalidUser(commandInput);
         }
 
-        String message = user.addAnnouncement(commandInput.getName(), commandInput.getDescription());
+        String message = user.addAnnouncement(commandInput.getName(),
+                commandInput.getDescription());
         ObjectNode objectNode = objectMapper.createObjectNode();
         objectNode.put("command", commandInput.getCommand());
         objectNode.put("user", commandInput.getUsername());

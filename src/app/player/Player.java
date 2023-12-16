@@ -4,7 +4,6 @@ import app.audio.Collections.AudioCollection;
 import app.audio.Files.AudioFile;
 import app.audio.LibraryEntry;
 import app.utils.Enums;
-import fileio.input.EpisodeInput;
 import lombok.Getter;
 
 import java.util.ArrayList;
@@ -275,7 +274,10 @@ public final class Player {
 
         return new PlayerStats(filename, duration, repeatMode, shuffle, paused);
     }
-
+    /**
+     * Gets current audio collection.
+     * @return the current audio collection
+     */
     public AudioCollection getCurrentAudioCollection() {
         if (source == null) {
             return null;

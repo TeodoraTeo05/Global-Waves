@@ -105,7 +105,7 @@ public final class Artist extends User {
     @Override
     public String addEvent(final String name, final String description, final String date) {
         if (!Event.isValidDate(date)) {
-            return getUsername() + " does not have a valid date.";
+            return "Event for " + getUsername() + " does not have a valid date.";
         }
         ArrayList<Event> events = admin.getEvents();
         for (Event event : events) {

@@ -112,7 +112,7 @@
   "command" : "addEvent",
   "user" : "melodymaster",
   "timestamp" : 395,
-  "message" : "melodymaster does not have a valid date."
+  "message" : "Event for melodymaster does not have a valid date."
 }, {
   "command" : "load",
   "user" : "bob35",

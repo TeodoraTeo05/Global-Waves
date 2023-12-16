@@ -1,11 +1,5 @@
-# Proiect GlobalWaves  - Teodorescu Teodora-Nicola
+# Proiect GlobalWaves  - Teodorescu Teodora-Nicola 325CA
 
-[//]: # (<div align="center"><img src="https://tenor.com/view/listening-to-music-spongebob-gif-8009182.gif" width="300px"></div>)
-
-[//]: # ()
-[//]: # (#### Assignment Link: [https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa1]&#40;https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa1&#41;)
-
-[//]: # ()
 
 ## Skel Structure
 
@@ -27,21 +21,49 @@
         - Gestionarea Stării Utilizatorilor: Verifică dacă utilizatorii sunt online sau offline și gestionează corespunzător comenzile.
         - Interacțiunea cu Clasa Admin: Folosește instanța Singleton a clasei Admin pentru a accesa și a modifica datele utilizatorilor și ale sistemului.
         -  Generarea de Răspunsuri: Folosește ObjectMapper pentru a crea obiecte JSON care reprezintă răspunsurile sistemului la comenzile utilizatorilor.
+  
+   * user/
 
-[//]: # (  * checker/ - checker files)
+      User - este o clasa care  Inițializează un nou utilizator cu un nume de utilizator, vârstă și oraș. Metodele implementate aici sunt:
 
-[//]: # (  * fileio/ - contains classes used to read data from the json files)
+       - search: Permite căutarea în sistem bazată pe filtre și tipul de căutare.
+       - select: Selectează un element din rezultatele căutării.
+       - load: Încarcă o sursă audio pentru redare.
+       - playPause: Pornește sau oprește redarea sursei audio.
+       - repeat: Setează modul de repetare pentru redarea audio.
+       - shuffle: Activează sau dezactivează modul amestec (shuffle) pentru redarea playlisturilor sau albumelor.
+       - forward / backward: Înaintează sau retrocedează în cadrul unui podcast.
+       - like: Marchează un cântec ca fiind preferat.
+       - next / prev: Sări la următorul sau precedentul element audio.
+       - createPlaylist: Creează o nouă playlistă.
+       - addRemoveInPlaylist: Adaugă sau elimină un cântec dintr-o playlistă.
+       - switchPlaylistVisibility: Schimbă vizibilitatea unei playliste.
+       - showPlaylists: Afișează listele de redare ale utilizatorului.
+       - follow: Permite urmărirea sau oprirea urmăririi unei playliste.
+       - getPlayerStats: Obține statistici legate de redarea audio.
+       - showPreferredSongs: Afișează lista cântecelor preferate.
+       - getPreferredGenre: Determină genul muzical preferat al utilizatorului.
+       - simulateTime: Simulează trecerea timpului în sistem.
+       - switchConnectionStatus: Schimbă statusul de conectare al utilizatorului.
+       - addAlbum / showAlbums / addEvent / addMerch: Metode legate de funcționalități artistice sau comerciale (prezente, dar nu implementate în mod activ pentru un utilizator obișnuit).
 
-[//]: # (  * main/)
+       Host - clasa care mosteneste clasa User, dar ofera implementari diferite pentru comenzile pe care doar un user de tip host le poate da, cum sunt cele care se ocupa de Podcasturi si de Announcements.
 
-[//]: # (      * Main - the Main class runs the checker on your implementation. Add the entry point to your implementation in it. Run Main to test your implementation from the IDE or from command line.)
+       Artist - clasa care mosteneste clasa User, dar ofera implementari diferite pentru comenzile pe care doar un user de tip host le poate da, cum sunt cele care se ocupa de Event si de Merch.
+  
 
-[//]: # (      * Test - run the main method from Test class with the name of the input file from the command line and the result will be written)
+   * personals/
 
-[//]: # (        to the out.txt file. Thus, you can compare this result with ref.)
+        ArtistEntry si HostEntry - clase care implementeaza mostenesc LibraryEntry si care sunt folosite pentru a retine informatii despre un artist sau un host.
+        Announcement, Event si Merch - clase care retin pentru un host sau artist, biblioteca lor de annnouncements, merch si events, putand avea si functionalitati noi, precum la Event este o metoda care valideaza data introdusa.
+      
+   * pages/
 
-[//]: # (* input/ - contains the tests and library in JSON format)
+       Page - clasa abstracta care contie constructorul ei si o metoda comuna cu clasele mostenite de ea.
+         ArtistPage, HostPage, UserPage - clase care mostenesc clasa Page si care implementeaza metoda comuna din clasa Page, anume cea de printare a paginii curente, dar si metode noi, cum ar fi la ArtistPage, metoda care adauga un album in biblioteca artistului. Cum pentru fiecare tip de user, avem o pagina diferita, pentru o mai buna organizare, am optat pentru 3 clase.
 
-[//]: # (* ref/ - contains all reference output for the tests in JSON format)
-
-[//]: # (<div align="center"><img src="https://tenor.com/view/homework-time-gif-24854817.gif" width="500px"></div>)
+   * collections/
+       Album - clasa care implementeaza un album, avand o lista de melodii, alaturi de datele de input necesare. Aceasta mosteneste clasa AudioCollection., care la randul ei mosteneste clasa LibraryEntry.
+       AlbumOutput si PodcastOutput - clase care asigura printrea in conformitate cu testele date, pentru o organizare mai eficienta.
+  
+   

@@ -11,8 +11,22 @@
 
 * app/
    * utils/
-      * Admin/
-            * Admin.java
+   
+        Admin - clasa care implementeaza un admin. Aceasta gestioneaza diverse entități în cadrul aplicației, inclusiv utilizatori, albume, melodii, podcast-uri, evenimente și produse comerciale. Aceasta urmează modelul de design Singleton pentru a asigura că doar o instanță a acestei clase este creată și utilizată în întreaga aplicație. Unele dintre functionalitatile acestei clase sunt: Gestionarea Utilizatorilor: Manevrarea operațiunilor legate de utilizatori, inclusiv adăugarea de noi utilizatori și recuperarea informațiilor acestora.
+     
+        - Gestionarea Melodiilor: Administrează melodii, permițând adăugarea și recuperarea datelor despre melodii;
+        - Gestionarea Albumelor: Facilitează crearea și întreținerea albumelor, oferind și funcționalități pentru a recupera date despre albume și pentru top 5 albume bazate pe like-uri;
+        - Gestionarea Podcast-urilor: Supraveghează gestionarea podcast-urilor, inclusiv adăugarea de noi podcast-uri și recuperarea informațiilor despre acestea;
+        - Gestionarea Evenimentelor și a Produselor Comerciale: Gestionează evenimentele și produsele comerciale, inclusiv capacitatea de a adăuga noi intrări pentru fiecare;
+        - Prelucrarea Intrărilor Utilizatorilor: Procesează diferite tipuri de intrări ale utilizatorilor pentru a actualiza starea aplicației corespunzător;
+        - Funcționalitatea de Resetare a Datelor: Oferă posibilitatea de a reseta toate datele stocate la o stare inițială.
+        
+       CommandRunneer - clasa este responsabilă pentru gestionarea și executarea comenzilor în cadrul aplicației. Cateva dintre functionalitatile ei sunt:
+
+        - Procesarea Comenzilor: Clasa gestionează diverse tipuri de comenzi, cum ar fi căutarea, redarea, pauza, și multe altele.
+        - Gestionarea Stării Utilizatorilor: Verifică dacă utilizatorii sunt online sau offline și gestionează corespunzător comenzile.
+        - Interacțiunea cu Clasa Admin: Folosește instanța Singleton a clasei Admin pentru a accesa și a modifica datele utilizatorilor și ale sistemului.
+        -  Generarea de Răspunsuri: Folosește ObjectMapper pentru a crea obiecte JSON care reprezintă răspunsurile sistemului la comenzile utilizatorilor.
 
 [//]: # (  * checker/ - checker files)
 

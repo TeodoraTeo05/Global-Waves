@@ -123,6 +123,10 @@ public final class Main {
                 case "addMerch" -> outputs.add(CommandRunner.addMerch(command));
                 case "getAllUsers" -> outputs.add(CommandRunner.getAllUsers(command));
                 case "getTop5Albums" -> outputs.add(CommandRunner.getTop5Albums(command));
+                case "addPodcast" -> outputs.add(CommandRunner.addPodcast(command));
+                case "removePodcast" -> outputs.add(CommandRunner.removePodcast(command));
+                case "showPodcasts" -> outputs.add(CommandRunner.showPodcasts(command));
+                case "addAnnouncement" -> outputs.add(CommandRunner.addAnnouncement(command));
                 default -> System.out.println("Invalid command " + commandName);
             }
         }

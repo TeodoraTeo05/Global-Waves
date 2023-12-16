@@ -5,10 +5,7 @@ import app.audio.Collections.Playlist;
 import app.audio.Collections.Podcast;
 import app.audio.Files.Episode;
 import app.audio.Files.Song;
-import app.audio.personals.Event;
-import app.audio.personals.Merch;
-import app.audio.personals.ArtistEntry;
-import app.audio.personals.HostEntry;
+import app.personals.*;
 import app.user.Artist;
 import app.user.Host;
 import app.user.User;
@@ -32,7 +29,8 @@ public final class Admin {
     private static List<ArtistEntry> artistsLibrary = new ArrayList<>();
     @Getter
     private static List<HostEntry> hostsLibrary = new ArrayList<>();
-    // pt hosts
+    @Getter
+    private static List<Episode> episodes = new ArrayList<>();
     private static List<Song> songs = new ArrayList<>();
     private static List<Podcast> podcasts = new ArrayList<>();
     @Getter
@@ -41,6 +39,8 @@ public final class Admin {
     private static ArrayList<Event> events = new ArrayList<>();
     @Getter
     private static ArrayList<Merch> merch = new ArrayList<>();
+    @Getter
+    private static ArrayList<Announcement> announcements = new ArrayList<>();
     private static int timestamp = 0;
     private static final int LIMIT = 5;
     private static Admin instance = null;
@@ -346,6 +346,7 @@ public final class Admin {
 
     }
 
+
     /**
      * Reset.
      */
@@ -356,10 +357,16 @@ public final class Admin {
         albums = new ArrayList<>();
         events = new ArrayList<>();
         merch = new ArrayList<>();
+        announcements = new ArrayList<>();
+        episodes = new ArrayList<>();
         artistsLibrary = new ArrayList<>();
         hostsLibrary = new ArrayList<>();
         timestamp = 0;
     }
 
 
+    public void addPodcasts(Podcast podcast) {
+        podcasts.add(podcast);
+        episodes.addAll(podcast.getEpisodes());
+    }
 }

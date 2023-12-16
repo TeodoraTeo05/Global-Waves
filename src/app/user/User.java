@@ -1,10 +1,7 @@
 package app.user;
 
 import app.Admin;
-import app.audio.Collections.AlbumOutput;
-import app.audio.Collections.AudioCollection;
-import app.audio.Collections.Playlist;
-import app.audio.Collections.PlaylistOutput;
+import app.audio.Collections.*;
 import app.audio.Files.AudioFile;
 import app.audio.Files.Song;
 import app.audio.LibraryEntry;
@@ -16,6 +13,7 @@ import app.player.PlayerStats;
 import app.searchBar.Filters;
 import app.searchBar.SearchBar;
 import app.utils.Enums;
+import fileio.input.EpisodeInput;
 import fileio.input.SongInput;
 import app.pages.Page;
 import lombok.Getter;
@@ -34,6 +32,10 @@ public class User {
     private int age;
     @Getter
     private String city;
+    @Getter
+    private ArrayList<Album> albums;
+    @Getter
+    private ArrayList<Podcast> podcasts;
     @Getter
     private ArrayList<Playlist> playlists;
     @Getter
@@ -68,6 +70,8 @@ public class User {
         this.age = age;
         this.city = city;
         playlists = new ArrayList<>();
+        podcasts = new ArrayList<>();
+        albums = new ArrayList<>();
         likedSongs = new ArrayList<>();
         followedPlaylists = new ArrayList<>();
         player = new Player();
@@ -144,6 +148,7 @@ public class User {
 
         player.setSource(searchBar.getLastSelected(), searchBar.getLastSearchType());
         searchBar.clearSelection();
+
 
         player.pause();
 
@@ -600,4 +605,36 @@ public class User {
         return username + " is not an artist.";
     }
 
+    public String addPodcast(final String name, final ArrayList<EpisodeInput> episodes) {
+        return username + " is not a host.";
+    }
+
+    public String removePodcast(final String name) {
+
+        if (player.getCurrentAudioCollection() != null
+                && player.getCurrentAudioCollection().getName().equals(name)) {
+            return username + " can't delete this podcast.";
+        }
+
+        return username + " is not a host.";
+    }
+
+    public ArrayList<PodcastOutput> showPodcasts() {
+        ArrayList<PodcastOutput> podcastsOutput = new ArrayList<>();
+
+        List<Podcast> allPodcasts = admin.getPodcasts();
+
+        for (Podcast podcast : allPodcasts) {
+            if (podcast.getOwner().equals(getUsername())) {
+                podcastsOutput.add(new PodcastOutput(podcast));
+            }
+        }
+
+        return podcastsOutput;
+
+    }
+
+    public String addAnnouncement(final String name, final String description) {
+        return username + " is not a host.";
+    }
 }

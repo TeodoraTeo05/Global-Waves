@@ -2,8 +2,8 @@ package app.pages;
 
 import app.Admin;
 import app.audio.Collections.Album;
-import app.audio.personals.Event;
-import app.audio.personals.Merch;
+import app.personals.Event;
+import app.personals.Merch;
 import app.user.User;
 
 import java.util.ArrayList;

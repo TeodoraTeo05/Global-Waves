@@ -8834,7 +8834,7 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10279,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -8875,17 +8875,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10279,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10279,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10289,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -8926,17 +8926,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10289,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10289,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10299,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -8977,17 +8977,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10299,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10299,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10309,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -9028,17 +9028,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10309,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10309,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10319,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -9079,17 +9079,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10319,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10319,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10329,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -9130,17 +9130,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10329,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10329,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10339,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -9181,17 +9181,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10339,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10339,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10349,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -9232,17 +9232,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10349,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10349,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10359,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -9283,17 +9283,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10359,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10359,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10369,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -9334,17 +9334,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10369,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10369,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10379,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -9385,17 +9385,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10379,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10379,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10389,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -9436,17 +9436,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10389,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10389,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10399,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -9487,17 +9487,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10399,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10399,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10409,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -9538,17 +9538,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10409,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10409,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10419,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -9589,17 +9589,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10419,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10419,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10429,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -9640,17 +9640,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10429,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10429,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10439,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -9691,17 +9691,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10439,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10439,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10449,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -9742,17 +9742,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10449,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10449,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10459,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -9793,17 +9793,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10459,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10459,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10469,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -9844,17 +9844,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10469,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10469,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10479,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -9895,17 +9895,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10479,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10479,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10489,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -9946,17 +9946,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10489,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10489,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10499,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -9997,17 +9997,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10499,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10499,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10509,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -10048,17 +10048,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10509,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10509,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10519,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -10099,17 +10099,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10519,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10519,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10529,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -10150,17 +10150,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10529,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10529,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10539,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -10201,17 +10201,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10539,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10539,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10549,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -10252,17 +10252,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10549,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10549,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10559,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -10303,17 +10303,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10559,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10559,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10569,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -10354,17 +10354,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10569,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10569,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10579,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -10405,17 +10405,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10579,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10579,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10589,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -10456,17 +10456,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10589,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10589,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10599,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -10507,17 +10507,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10599,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10599,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10609,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -10558,17 +10558,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10609,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10609,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10619,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -10609,17 +10609,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10619,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10619,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10629,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -10660,17 +10660,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10629,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10629,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10639,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -10711,17 +10711,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10639,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10639,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10649,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -10762,17 +10762,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10649,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10649,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10659,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -10813,17 +10813,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10659,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10659,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10669,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -10864,17 +10864,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10669,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10669,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10679,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -10915,17 +10915,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10679,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10679,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10689,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -10966,17 +10966,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10689,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10689,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10699,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -11017,17 +11017,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10699,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10699,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10709,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -11068,17 +11068,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10709,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10709,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10719,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -11119,17 +11119,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10719,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10719,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10729,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -11170,17 +11170,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10729,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10729,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10739,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -11221,17 +11221,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10739,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10739,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10749,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -11272,17 +11272,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10749,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10749,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10759,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -11323,17 +11323,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10759,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10759,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10769,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -11374,17 +11374,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10769,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10769,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10779,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -11425,17 +11425,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10779,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10779,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10789,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -11476,17 +11476,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10789,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10789,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10799,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -11527,17 +11527,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10799,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10799,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10809,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -11578,17 +11578,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10809,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10809,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10819,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -11629,17 +11629,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10819,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10819,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10829,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -11680,17 +11680,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10829,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10829,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10839,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -11731,17 +11731,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10839,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10839,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10849,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -11782,17 +11782,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10849,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10849,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10859,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -11833,17 +11833,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10859,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10859,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10869,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -11884,17 +11884,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10869,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10869,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10879,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -11935,17 +11935,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10879,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10879,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10889,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -11986,17 +11986,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10889,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10889,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10899,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -12037,17 +12037,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10899,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10899,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10909,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -12088,17 +12088,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10909,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 10909,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10919,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -12139,17 +12139,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10919,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 10919,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10929,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -12190,17 +12190,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10929,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 10929,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10939,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -12241,17 +12241,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10939,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 10939,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10949,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -12292,17 +12292,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10949,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 10949,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10959,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -12343,17 +12343,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10959,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 10959,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10969,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -12394,17 +12394,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10969,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 10969,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10979,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -12445,17 +12445,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10979,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 10979,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10989,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -12496,17 +12496,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10989,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 10989,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10999,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -12547,17 +12547,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10999,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 10999,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11009,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -12598,17 +12598,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11009,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11009,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11019,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -12649,17 +12649,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11019,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11019,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11029,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -12700,17 +12700,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11029,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11029,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11039,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -12751,17 +12751,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11039,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11039,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11049,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -12802,17 +12802,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11049,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11049,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11059,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -12853,17 +12853,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11059,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11059,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11069,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -12904,17 +12904,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11069,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11069,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11079,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -12955,17 +12955,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11079,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11079,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11089,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -13006,17 +13006,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11089,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11089,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11099,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -13057,17 +13057,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11099,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11099,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11109,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -13108,17 +13108,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11109,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11109,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11119,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -13159,17 +13159,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11119,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11119,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11129,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -13210,17 +13210,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11129,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11129,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11139,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -13261,17 +13261,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11139,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11139,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11149,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -13312,17 +13312,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11149,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11149,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11159,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -13363,17 +13363,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11159,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11159,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11169,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -13414,17 +13414,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11169,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11169,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11179,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -13465,17 +13465,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11179,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11179,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11189,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -13516,17 +13516,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11189,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11189,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11199,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -13567,17 +13567,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11199,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11199,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11209,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -13618,17 +13618,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11209,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11209,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11219,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -13669,17 +13669,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11219,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11219,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11229,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -13720,17 +13720,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11229,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11229,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11239,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -13771,17 +13771,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11239,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11239,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11249,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -13822,17 +13822,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11249,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11249,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11259,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -13873,17 +13873,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11259,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11259,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11269,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -13924,17 +13924,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11269,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11269,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11279,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -13975,17 +13975,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11279,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11279,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11289,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -14026,17 +14026,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11289,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11289,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11299,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -14077,17 +14077,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11299,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11299,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11309,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -14128,17 +14128,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11309,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11309,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11319,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -14179,17 +14179,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11319,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11319,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11329,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -14230,17 +14230,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11329,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11329,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11339,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -14281,17 +14281,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11339,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11339,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11349,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -14332,17 +14332,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11349,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11349,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11359,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -14383,17 +14383,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11359,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11359,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11369,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -14434,17 +14434,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11369,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11369,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11379,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -14485,17 +14485,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11379,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11379,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11389,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -14536,17 +14536,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11389,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11389,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11399,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -14587,17 +14587,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11399,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11399,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11409,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -14638,17 +14638,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11409,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11409,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11419,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -14689,17 +14689,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11419,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11419,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11429,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -14740,17 +14740,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11429,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11429,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11439,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -14791,17 +14791,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11439,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11439,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11449,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -14842,17 +14842,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11449,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11449,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11459,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -14893,17 +14893,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11459,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11459,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11469,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -14944,17 +14944,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11469,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11469,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11479,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -14995,17 +14995,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11479,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11479,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11489,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -15046,17 +15046,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11489,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11489,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11499,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -15097,17 +15097,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11499,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11499,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11509,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -15148,17 +15148,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11509,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11509,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11519,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -15199,17 +15199,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11519,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11519,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11529,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -15250,17 +15250,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11529,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11529,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11539,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -15301,17 +15301,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11539,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11539,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11549,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -15352,17 +15352,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11549,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11549,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11559,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -15403,17 +15403,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11559,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11559,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11569,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -15454,17 +15454,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11569,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11569,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11579,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -15505,17 +15505,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11579,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11579,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11589,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -15556,17 +15556,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11589,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11589,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11599,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -15607,17 +15607,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11599,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11599,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11609,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -15658,17 +15658,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11609,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11609,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11619,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -15709,17 +15709,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11619,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11619,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11629,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -15760,17 +15760,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11629,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11629,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11639,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -15811,17 +15811,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11639,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11639,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11649,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -15862,17 +15862,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11649,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11649,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11659,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -15913,17 +15913,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11659,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11659,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11669,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -15964,17 +15964,17 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11669,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11669,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11679,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -16015,17 +16015,17 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11679,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 11679,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@b62fe6d, app.audio.Collections.Playlist@13acb0d1]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@37e547da, app.audio.Collections.Playlist@2b6856dd]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11689,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "command" : "search",
   "user" : "bob35",
@@ -16066,17 +16066,17 @@
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11689,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "bob35",
   "command" : "printCurrentPage",
   "timestamp" : 11689,
-  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3e3047e6, app.audio.Collections.Playlist@37e547da]"
+  "message" : "Liked songs:\n\t[Black Dog, Sad But True]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5db45159, app.audio.Collections.Playlist@6107227e]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11699,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "command" : "search",
   "user" : "carol19",
@@ -16117,17 +16117,17 @@
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11699,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "carol19",
   "command" : "printCurrentPage",
   "timestamp" : 11699,
-  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@2b6856dd, app.audio.Collections.Playlist@5db45159]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7c417213, app.audio.Collections.Playlist@15761df8]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11709,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "command" : "search",
   "user" : "david27",
@@ -16168,17 +16168,17 @@
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11709,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "david27",
   "command" : "printCurrentPage",
   "timestamp" : 11709,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6107227e, app.audio.Collections.Playlist@7c417213]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@6ab7a896, app.audio.Collections.Playlist@327b636c]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11719,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "command" : "search",
   "user" : "emily30",
@@ -16219,17 +16219,17 @@
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11719,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "emily30",
   "command" : "printCurrentPage",
   "timestamp" : 11719,
-  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@15761df8, app.audio.Collections.Playlist@6ab7a896]"
+  "message" : "Liked songs:\n\t[Start Me Up]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@45dd4eda, app.audio.Collections.Playlist@60611244]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11729,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "frank21",
@@ -16270,17 +16270,17 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11729,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11729,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11739,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "command" : "search",
   "user" : "grace25",
@@ -16321,17 +16321,17 @@
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11739,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "grace25",
   "command" : "printCurrentPage",
   "timestamp" : 11739,
-  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@60611244, app.audio.Collections.Playlist@3745e5c6]"
+  "message" : "Liked songs:\n\t[Under Pressure, Dream On]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@71c8becc, app.audio.Collections.Playlist@19d37183]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11749,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "command" : "search",
   "user" : "henry26",
@@ -16372,17 +16372,17 @@
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11749,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "henry26",
   "command" : "printCurrentPage",
   "timestamp" : 11749,
-  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@5e4c8041, app.audio.Collections.Playlist@71c8becc]"
+  "message" : "Liked songs:\n\t[Angie]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@1a0dcaa, app.audio.Collections.Playlist@3bd40a57]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11759,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "command" : "search",
   "user" : "irene33",
@@ -16423,17 +16423,17 @@
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11759,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "irene33",
   "command" : "printCurrentPage",
   "timestamp" : 11759,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@19d37183, app.audio.Collections.Playlist@1a0dcaa]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@fdefd3f, app.audio.Collections.Playlist@d83da2e]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11769,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "jack29",
@@ -16474,12 +16474,12 @@
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11769,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "user" : "jack29",
   "command" : "printCurrentPage",
   "timestamp" : 11769,
-  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3bd40a57, app.audio.Collections.Playlist@fdefd3f]"
+  "message" : "Liked songs:\n\t[The Man, Money Trees]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@a4102b8, app.audio.Collections.Playlist@11dc3715]"
 }, {
   "command" : "search",
   "user" : "alice22",
@@ -16650,7 +16650,7 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11819,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "addAlbum",
   "user" : "conniealvarez",
@@ -16660,12 +16660,12 @@
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11819,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "user" : "frank21",
   "command" : "printCurrentPage",
   "timestamp" : 11819,
-  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@327b636c, app.audio.Collections.Playlist@45dd4eda]"
+  "message" : "Liked songs:\n\t[Stairway to Heaven, Whatever You Need]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@3745e5c6, app.audio.Collections.Playlist@5e4c8041]"
 }, {
   "command" : "search",
   "user" : "grace25",

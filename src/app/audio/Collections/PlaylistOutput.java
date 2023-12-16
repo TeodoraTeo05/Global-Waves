@@ -21,7 +21,6 @@ public class PlaylistOutput {
         }
         this.visibility = playlist.getVisibility() == Enums.Visibility.PRIVATE
                                                       ? "private" : "public";
-       // max = a > b ? a : b;
         this.followers = playlist.getFollowers();
     }
 

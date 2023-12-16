@@ -282,7 +282,7 @@
   "user" : "alice22",
   "command" : "printCurrentPage",
   "timestamp" : 1038,
-  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@7d68ef40]"
+  "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[app.audio.Collections.Playlist@214b199c]"
 }, {
   "command" : "search",
   "user" : "carol19",
